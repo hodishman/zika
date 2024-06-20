@@ -4,6 +4,19 @@ authors: "Hope Dishman"
 date: "June 20, 2024"
 dataset: "https://nextstrain.org/community/hodishman/zika"
 ---
+
+# [Overall View of Static Content](https://nextstrain.org/community/hodishman/zika)
+
+```auspiceMainDisplayMarkdown
+#Title
+
+#Title 2
+
+#Title 3
+
+this should be on th eleft panel??? seems like i'm doing something wrong.
+
+
 # [French Polynesia](https://nextstrain.org/community/hodishman/zika?f_country=French%20Polynesia)
 
 Specimens from French Polynesia are at the base of the larger tree.
@@ -20,4 +33,3 @@ Interesting how there seems to be genetic differences among specimens from Brazi
 
 text.
 
-# [Overall View of Static Content](https://nextstrain.org/community/hodishman/zika)
