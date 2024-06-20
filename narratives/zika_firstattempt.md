@@ -16,6 +16,6 @@ See how the majority of the tree fills in the screen.
 
 Interesting how there seems to be genetic differences among specimens from Brazil and other countries are influenced from specimens from Brazil.
 
-#[Rate of genetic Change in Brazil](https://nextstrain.org/community/hodishman/zika?d=tree,map&f_country=Brazil&l=clock&p=grid)
+# [Rate of genetic Change in Brazil](https://nextstrain.org/community/hodishman/zika?d=tree,map&f_country=Brazil&l=clock&p=grid)
 
 text.
