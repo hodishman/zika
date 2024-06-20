@@ -10,7 +10,8 @@ dataset: "https://nextstrain.org/community/hodishman/zika"
 some text
 
 ```auspiceMainDisplayMarkdown
-Title
+
+# Title
 
 Title 2
 
