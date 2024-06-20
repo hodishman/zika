@@ -8,6 +8,6 @@ dataset: "https://nextstrain.org/community/hodishman/zika"
 
 Specimens from French Polynesia are at the base of the larger tree.
 
-#[Extended Tree](https://nextstrain.org/community/hodishman/zika?f_country=American%20Samoa,Brazil,Colombia,Dominican%20Republic,Ecuador,French%20Polynesia,Guatemala,Honduras,Nicaragua,Panama,Puerto%20Rico,USA,Venezuela)
+# [Extended Tree](https://nextstrain.org/community/hodishman/zika?f_country=American%20Samoa,Brazil,Colombia,Dominican%20Republic,Ecuador,French%20Polynesia,Guatemala,Honduras,Nicaragua,Panama,Puerto%20Rico,USA,Venezuela)
 
 See how the majority of the tree fills in the screen.
