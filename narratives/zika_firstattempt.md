@@ -7,17 +7,16 @@ dataset: "https://nextstrain.org/community/hodishman/zika"
 
 # [Overall View of Static Content](https://nextstrain.org/community/hodishman/zika)
 
-some text
+Here's my left panel text. Look at that.
 
 ```auspiceMainDisplayMarkdown
 
 # Title
 
-Title 2
+## Title 2
 
-Title 3
+### Title 3
 
-this should be on the left panel??? seems like i'm doing something wrong.
 ```
 
 # [French Polynesia](https://nextstrain.org/community/hodishman/zika?f_country=French%20Polynesia)
