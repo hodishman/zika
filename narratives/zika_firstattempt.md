@@ -11,3 +11,7 @@ Specimens from French Polynesia are at the base of the larger tree.
 # [Extended Tree](https://nextstrain.org/community/hodishman/zika?f_country=American%20Samoa,Brazil,Colombia,Dominican%20Republic,Ecuador,French%20Polynesia,Guatemala,Honduras,Nicaragua,Panama,Puerto%20Rico,USA,Venezuela)
 
 See how the majority of the tree fills in the screen.
+
+# [Brazil Influences Everything](https://nextstrain.org/community/hodishman/zika?d=tree,map&f_country=Brazil&p=grid)
+
+Interesting how there seems to be genetic differences among specimens from Brazil and other countries are influenced from specimens from Brazil.
