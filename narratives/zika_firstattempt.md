@@ -1,6 +1,6 @@
 ---
-title: "Zika Narrative"
+title: "Zika Narrative Test"
 authors: "Hope Dishman"
 date: "June 20, 2024"
-dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
+dataset: "https://nextstrain.org/community/hodishman/zika"
 ---
