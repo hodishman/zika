@@ -19,3 +19,5 @@ Interesting how there seems to be genetic differences among specimens from Brazi
 # [Rate of genetic Change in Brazil](https://nextstrain.org/community/hodishman/zika?d=tree,map&f_country=Brazil&l=clock&p=grid)
 
 text.
+
+# [Overall View of Static Content](https://nextstrain.org/community/hodishman/zika)
