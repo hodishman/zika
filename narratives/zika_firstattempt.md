@@ -8,14 +8,14 @@ dataset: "https://nextstrain.org/community/hodishman/zika"
 # [Overall View of Static Content](https://nextstrain.org/community/hodishman/zika)
 
 ```auspiceMainDisplayMarkdown
-#Title
+Title
 
-#Title 2
+Title 2
 
-#Title 3
+Title 3
 
 this should be on th eleft panel??? seems like i'm doing something wrong.
-
+```
 
 # [French Polynesia](https://nextstrain.org/community/hodishman/zika?f_country=French%20Polynesia)
 
